@@ -1,0 +1,6 @@
+Weights from input to hidden layer:
+0.21 0.14 
+0.67 0.32 
+Weights from hidden to output layer:
+0.48 0.60 
+

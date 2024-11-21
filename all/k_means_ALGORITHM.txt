@@ -1,0 +1,30 @@
+Algorithm for K-Means Clustering
+1.Initialize Parameters:
+
+Set the number of clusters 
+𝑘
+k and the maximum number of iterations.
+
+2.Load Data:
+
+Read data points from a file (e.g., sample_data.txt) into a list of points.
+
+
+3.Initialize Centroids:
+Randomly select k  data points from the dataset as initial centroids.
+
+4.Iterate for a Fixed Number of Iterations (or until convergence):
+
+For each iteration:
+1.Assign Clusters:
+For each data point:
+Calculate the Euclidean distance from the point to each centroid.
+Assign the point to the cluster corresponding to the nearest centroid.
+2.Update Centroids:
+For each cluster:
+Calculate the new centroid by finding the mean of all data points assigned to that cluster.
+If a cluster has no points assigned, retain its previous centroid.
+
+5.Output Results:
+
+After completing the iterations, output the final centroids of each cluster

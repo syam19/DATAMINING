@@ -1,0 +1,5 @@
+Clusters:
+Cluster 1 Centroid: [2.5, 3.25], Radius: 0.612372
+Cluster 2 Centroid: [8.5, 7.5], Radius: 0.612372
+Cluster 3 Centroid: [20, 25], Radius: 0
+

@@ -1,0 +1,10 @@
+Converged after 10 iterations.
+Cluster 1 size: 4
+Medoid: (4.9, 3.0)
+
+Cluster 2 size: 3
+Medoid: (6.3, 3.3)
+
+Cluster 3 size: 3
+Medoid: (5.7, 4.4)
+

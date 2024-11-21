@@ -1,0 +1,1000 @@
+Customer ID: 823, Transaction ID: 1, Items: {1 2 5 }
+Customer ID: 787, Transaction ID: 2, Items: {1 2 3 4 5 6 }
+Customer ID: 306, Transaction ID: 3, Items: {2 3 4 5 6 7 }
+Customer ID: 270, Transaction ID: 4, Items: {1 2 4 5 6 }
+Customer ID: 875, Transaction ID: 5, Items: {1 2 3 5 6 7 }
+Customer ID: 788, Transaction ID: 6, Items: {1 3 5 }
+Customer ID: 897, Transaction ID: 7, Items: {1 2 4 5 6 7 }
+Customer ID: 879, Transaction ID: 8, Items: {2 3 5 6 7 }
+Customer ID: 923, Transaction ID: 9, Items: {2 4 5 }
+Customer ID: 802, Transaction ID: 10, Items: {2 3 4 5 6 7 }
+Customer ID: 215, Transaction ID: 11, Items: {1 2 3 4 5 7 }
+Customer ID: 642, Transaction ID: 12, Items: {2 }
+Customer ID: 116, Transaction ID: 13, Items: {1 2 3 4 5 7 }
+Customer ID: 665, Transaction ID: 14, Items: {7 }
+Customer ID: 24, Transaction ID: 15, Items: {1 2 3 5 6 7 }
+Customer ID: 812, Transaction ID: 16, Items: {1 2 3 4 6 7 }
+Customer ID: 437, Transaction ID: 17, Items: {1 2 4 5 6 7 }
+Customer ID: 663, Transaction ID: 18, Items: {4 5 6 7 }
+Customer ID: 106, Transaction ID: 19, Items: {1 2 3 4 5 7 }
+Customer ID: 871, Transaction ID: 20, Items: {1 2 3 4 6 7 }
+Customer ID: 85, Transaction ID: 21, Items: {1 2 3 4 5 6 }
+Customer ID: 231, Transaction ID: 22, Items: {1 2 3 4 5 6 7 }
+Customer ID: 652, Transaction ID: 23, Items: {1 2 3 5 6 7 }
+Customer ID: 250, Transaction ID: 24, Items: {1 3 }
+Customer ID: 209, Transaction ID: 25, Items: {1 2 3 4 5 6 7 }
+Customer ID: 136, Transaction ID: 26, Items: {1 3 4 5 6 7 }
+Customer ID: 754, Transaction ID: 27, Items: {2 4 7 }
+Customer ID: 258, Transaction ID: 28, Items: {2 4 5 6 7 }
+Customer ID: 685, Transaction ID: 29, Items: {2 3 4 5 6 7 }
+Customer ID: 873, Transaction ID: 30, Items: {1 3 5 7 }
+Customer ID: 263, Transaction ID: 31, Items: {2 3 4 5 6 7 }
+Customer ID: 18, Transaction ID: 32, Items: {4 }
+Customer ID: 253, Transaction ID: 33, Items: {2 3 }
+Customer ID: 545, Transaction ID: 34, Items: {1 2 3 4 5 6 7 }
+Customer ID: 415, Transaction ID: 35, Items: {1 3 5 6 7 }
+Customer ID: 638, Transaction ID: 36, Items: {1 3 4 7 }
+Customer ID: 488, Transaction ID: 37, Items: {1 2 3 4 5 6 7 }
+Customer ID: 747, Transaction ID: 38, Items: {1 2 3 4 5 7 }
+Customer ID: 143, Transaction ID: 39, Items: {1 2 3 4 5 6 7 }
+Customer ID: 329, Transaction ID: 40, Items: {1 3 5 7 }
+Customer ID: 419, Transaction ID: 41, Items: {1 3 4 6 7 }
+Customer ID: 96, Transaction ID: 42, Items: {1 2 3 4 5 6 7 }
+Customer ID: 86, Transaction ID: 43, Items: {1 2 3 6 7 }
+Customer ID: 425, Transaction ID: 44, Items: {1 3 4 5 }
+Customer ID: 412, Transaction ID: 45, Items: {7 }
+Customer ID: 646, Transaction ID: 46, Items: {1 2 3 5 6 7 }
+Customer ID: 47, Transaction ID: 47, Items: {1 2 4 }
+Customer ID: 917, Transaction ID: 48, Items: {1 2 4 7 }
+Customer ID: 604, Transaction ID: 49, Items: {1 2 3 5 6 7 }
+Customer ID: 670, Transaction ID: 50, Items: {1 2 3 4 5 6 7 }
+Customer ID: 999, Transaction ID: 51, Items: {1 2 4 6 }
+Customer ID: 391, Transaction ID: 52, Items: {2 3 4 5 6 7 }
+Customer ID: 113, Transaction ID: 53, Items: {6 }
+Customer ID: 755, Transaction ID: 54, Items: {1 2 3 4 6 7 }
+Customer ID: 101, Transaction ID: 55, Items: {2 3 }
+Customer ID: 745, Transaction ID: 56, Items: {1 2 3 4 5 6 7 }
+Customer ID: 293, Transaction ID: 57, Items: {1 2 3 4 5 7 }
+Customer ID: 21, Transaction ID: 58, Items: {1 2 3 5 6 7 }
+Customer ID: 715, Transaction ID: 59, Items: {1 2 3 4 5 6 7 }
+Customer ID: 766, Transaction ID: 60, Items: {1 2 3 5 6 7 }
+Customer ID: 749, Transaction ID: 61, Items: {1 2 3 4 5 6 }
+Customer ID: 19, Transaction ID: 62, Items: {1 2 3 4 5 6 7 }
+Customer ID: 652, Transaction ID: 63, Items: {1 4 5 6 }
+Customer ID: 969, Transaction ID: 64, Items: {2 3 4 5 6 }
+Customer ID: 673, Transaction ID: 65, Items: {2 3 5 6 7 }
+Customer ID: 708, Transaction ID: 66, Items: {1 2 3 4 6 7 }
+Customer ID: 988, Transaction ID: 67, Items: {1 2 6 7 }
+Customer ID: 297, Transaction ID: 68, Items: {1 4 6 }
+Customer ID: 163, Transaction ID: 69, Items: {1 3 4 6 7 }
+Customer ID: 862, Transaction ID: 70, Items: {3 5 }
+Customer ID: 983, Transaction ID: 71, Items: {1 }
+Customer ID: 846, Transaction ID: 72, Items: {2 4 6 }
+Customer ID: 549, Transaction ID: 73, Items: {1 2 3 4 5 6 }
+Customer ID: 232, Transaction ID: 74, Items: {2 3 4 5 6 7 }
+Customer ID: 729, Transaction ID: 75, Items: {1 3 4 5 6 7 }
+Customer ID: 978, Transaction ID: 76, Items: {1 2 4 7 }
+Customer ID: 235, Transaction ID: 77, Items: {1 2 4 6 }
+Customer ID: 682, Transaction ID: 78, Items: {7 }
+Customer ID: 515, Transaction ID: 79, Items: {1 2 3 4 5 7 }
+Customer ID: 467, Transaction ID: 80, Items: {1 2 3 4 5 6 7 }
+Customer ID: 711, Transaction ID: 81, Items: {1 2 3 6 7 }
+Customer ID: 647, Transaction ID: 82, Items: {2 3 4 5 6 7 }
+Customer ID: 193, Transaction ID: 83, Items: {1 2 6 }
+Customer ID: 207, Transaction ID: 84, Items: {2 3 6 7 }
+Customer ID: 895, Transaction ID: 85, Items: {1 3 4 5 6 7 }
+Customer ID: 872, Transaction ID: 86, Items: {1 3 4 7 }
+Customer ID: 466, Transaction ID: 87, Items: {2 3 4 5 7 }
+Customer ID: 496, Transaction ID: 88, Items: {7 }
+Customer ID: 597, Transaction ID: 89, Items: {1 3 4 5 6 7 }
+Customer ID: 446, Transaction ID: 90, Items: {2 5 }
+Customer ID: 694, Transaction ID: 91, Items: {1 2 4 5 6 7 }
+Customer ID: 202, Transaction ID: 92, Items: {1 2 3 4 6 7 }
+Customer ID: 887, Transaction ID: 93, Items: {1 3 4 }
+Customer ID: 683, Transaction ID: 94, Items: {2 3 4 5 6 7 }
+Customer ID: 273, Transaction ID: 95, Items: {1 2 3 4 5 6 7 }
+Customer ID: 195, Transaction ID: 96, Items: {2 4 }
+Customer ID: 199, Transaction ID: 97, Items: {5 }
+Customer ID: 239, Transaction ID: 98, Items: {1 3 4 6 7 }
+Customer ID: 526, Transaction ID: 99, Items: {1 3 4 5 6 7 }
+Customer ID: 32, Transaction ID: 100, Items: {1 2 3 4 5 6 }
+Customer ID: 147, Transaction ID: 101, Items: {1 2 3 4 5 7 }
+Customer ID: 517, Transaction ID: 102, Items: {6 }
+Customer ID: 912, Transaction ID: 103, Items: {1 2 3 4 5 6 7 }
+Customer ID: 31, Transaction ID: 104, Items: {2 3 4 5 6 7 }
+Customer ID: 554, Transaction ID: 105, Items: {1 2 6 7 }
+Customer ID: 340, Transaction ID: 106, Items: {3 4 5 6 7 }
+Customer ID: 887, Transaction ID: 107, Items: {1 2 4 5 6 7 }
+Customer ID: 189, Transaction ID: 108, Items: {1 2 3 4 5 7 }
+Customer ID: 785, Transaction ID: 109, Items: {1 3 6 7 }
+Customer ID: 617, Transaction ID: 110, Items: {1 5 7 }
+Customer ID: 981, Transaction ID: 111, Items: {2 4 6 7 }
+Customer ID: 937, Transaction ID: 112, Items: {1 7 }
+Customer ID: 416, Transaction ID: 113, Items: {1 4 6 }
+Customer ID: 868, Transaction ID: 114, Items: {1 4 }
+Customer ID: 279, Transaction ID: 115, Items: {2 4 5 7 }
+Customer ID: 616, Transaction ID: 116, Items: {1 2 3 4 5 6 7 }
+Customer ID: 234, Transaction ID: 117, Items: {1 2 3 6 }
+Customer ID: 968, Transaction ID: 118, Items: {2 3 4 5 6 7 }
+Customer ID: 987, Transaction ID: 119, Items: {4 6 }
+Customer ID: 2, Transaction ID: 120, Items: {1 2 4 5 6 }
+Customer ID: 699, Transaction ID: 121, Items: {1 4 5 7 }
+Customer ID: 752, Transaction ID: 122, Items: {1 2 5 6 }
+Customer ID: 508, Transaction ID: 123, Items: {2 3 4 6 }
+Customer ID: 605, Transaction ID: 124, Items: {1 2 3 5 }
+Customer ID: 394, Transaction ID: 125, Items: {1 4 5 6 }
+Customer ID: 347, Transaction ID: 126, Items: {1 2 3 5 6 7 }
+Customer ID: 702, Transaction ID: 127, Items: {2 3 4 5 6 }
+Customer ID: 169, Transaction ID: 128, Items: {2 4 5 6 7 }
+Customer ID: 922, Transaction ID: 129, Items: {1 2 3 4 5 6 7 }
+Customer ID: 185, Transaction ID: 130, Items: {5 6 7 }
+Customer ID: 983, Transaction ID: 131, Items: {1 2 3 4 5 7 }
+Customer ID: 349, Transaction ID: 132, Items: {1 2 3 5 6 }
+Customer ID: 540, Transaction ID: 133, Items: {1 2 3 4 6 7 }
+Customer ID: 983, Transaction ID: 134, Items: {1 4 6 }
+Customer ID: 132, Transaction ID: 135, Items: {1 2 3 4 5 6 7 }
+Customer ID: 461, Transaction ID: 136, Items: {1 3 4 5 6 7 }
+Customer ID: 600, Transaction ID: 137, Items: {1 2 3 4 5 6 }
+Customer ID: 356, Transaction ID: 138, Items: {1 2 3 5 6 7 }
+Customer ID: 151, Transaction ID: 139, Items: {2 3 }
+Customer ID: 431, Transaction ID: 140, Items: {1 2 3 4 6 }
+Customer ID: 866, Transaction ID: 141, Items: {2 3 4 5 7 }
+Customer ID: 624, Transaction ID: 142, Items: {1 2 3 4 }
+Customer ID: 621, Transaction ID: 143, Items: {2 3 4 }
+Customer ID: 561, Transaction ID: 144, Items: {1 2 3 5 6 7 }
+Customer ID: 22, Transaction ID: 145, Items: {1 2 3 4 7 }
+Customer ID: 921, Transaction ID: 146, Items: {1 2 3 4 5 6 }
+Customer ID: 337, Transaction ID: 147, Items: {1 2 3 5 }
+Customer ID: 934, Transaction ID: 148, Items: {2 4 6 }
+Customer ID: 152, Transaction ID: 149, Items: {1 2 3 4 5 6 7 }
+Customer ID: 772, Transaction ID: 150, Items: {3 4 5 6 7 }
+Customer ID: 937, Transaction ID: 151, Items: {1 3 4 6 7 }
+Customer ID: 169, Transaction ID: 152, Items: {4 5 6 7 }
+Customer ID: 67, Transaction ID: 153, Items: {4 6 }
+Customer ID: 380, Transaction ID: 154, Items: {1 2 3 4 6 7 }
+Customer ID: 619, Transaction ID: 155, Items: {6 }
+Customer ID: 213, Transaction ID: 156, Items: {1 3 5 6 }
+Customer ID: 13, Transaction ID: 157, Items: {1 2 3 4 5 6 7 }
+Customer ID: 815, Transaction ID: 158, Items: {2 3 4 5 7 }
+Customer ID: 73, Transaction ID: 159, Items: {1 2 3 4 5 6 }
+Customer ID: 923, Transaction ID: 160, Items: {1 2 3 4 5 6 7 }
+Customer ID: 402, Transaction ID: 161, Items: {1 3 5 }
+Customer ID: 757, Transaction ID: 162, Items: {1 7 }
+Customer ID: 544, Transaction ID: 163, Items: {1 2 3 4 6 }
+Customer ID: 687, Transaction ID: 164, Items: {2 3 }
+Customer ID: 262, Transaction ID: 165, Items: {6 }
+Customer ID: 984, Transaction ID: 166, Items: {1 2 5 6 7 }
+Customer ID: 977, Transaction ID: 167, Items: {4 5 6 }
+Customer ID: 34, Transaction ID: 168, Items: {3 6 }
+Customer ID: 600, Transaction ID: 169, Items: {1 2 4 5 6 7 }
+Customer ID: 166, Transaction ID: 170, Items: {1 2 3 4 5 6 }
+Customer ID: 637, Transaction ID: 171, Items: {1 2 3 4 5 6 7 }
+Customer ID: 384, Transaction ID: 172, Items: {2 3 4 6 7 }
+Customer ID: 28, Transaction ID: 173, Items: {2 3 4 5 7 }
+Customer ID: 866, Transaction ID: 174, Items: {3 6 7 }
+Customer ID: 664, Transaction ID: 175, Items: {2 3 4 5 7 }
+Customer ID: 598, Transaction ID: 176, Items: {1 2 3 4 5 6 7 }
+Customer ID: 934, Transaction ID: 177, Items: {1 2 3 4 5 6 7 }
+Customer ID: 271, Transaction ID: 178, Items: {1 2 3 4 5 6 7 }
+Customer ID: 42, Transaction ID: 179, Items: {1 2 4 5 6 7 }
+Customer ID: 204, Transaction ID: 180, Items: {1 2 4 5 }
+Customer ID: 958, Transaction ID: 181, Items: {4 }
+Customer ID: 66, Transaction ID: 182, Items: {1 3 4 7 }
+Customer ID: 382, Transaction ID: 183, Items: {2 3 5 7 }
+Customer ID: 868, Transaction ID: 184, Items: {3 4 5 6 7 }
+Customer ID: 768, Transaction ID: 185, Items: {1 2 3 4 5 6 7 }
+Customer ID: 527, Transaction ID: 186, Items: {1 2 3 4 5 6 7 }
+Customer ID: 24, Transaction ID: 187, Items: {1 2 3 4 5 6 7 }
+Customer ID: 840, Transaction ID: 188, Items: {1 3 5 7 }
+Customer ID: 94, Transaction ID: 189, Items: {1 2 3 4 5 6 7 }
+Customer ID: 994, Transaction ID: 190, Items: {2 3 4 5 6 7 }
+Customer ID: 117, Transaction ID: 191, Items: {1 2 3 4 6 7 }
+Customer ID: 634, Transaction ID: 192, Items: {2 3 4 5 7 }
+Customer ID: 16, Transaction ID: 193, Items: {1 2 4 6 7 }
+Customer ID: 977, Transaction ID: 194, Items: {2 6 }
+Customer ID: 574, Transaction ID: 195, Items: {2 5 }
+Customer ID: 642, Transaction ID: 196, Items: {6 }
+Customer ID: 827, Transaction ID: 197, Items: {1 5 6 }
+Customer ID: 170, Transaction ID: 198, Items: {1 2 3 4 6 }
+Customer ID: 197, Transaction ID: 199, Items: {1 2 5 }
+Customer ID: 642, Transaction ID: 200, Items: {1 3 4 5 6 7 }
+Customer ID: 907, Transaction ID: 201, Items: {1 4 5 7 }
+Customer ID: 1, Transaction ID: 202, Items: {2 4 5 7 }
+Customer ID: 193, Transaction ID: 203, Items: {5 }
+Customer ID: 490, Transaction ID: 204, Items: {1 2 3 4 5 6 7 }
+Customer ID: 189, Transaction ID: 205, Items: {1 2 3 4 5 }
+Customer ID: 835, Transaction ID: 206, Items: {3 }
+Customer ID: 63, Transaction ID: 207, Items: {1 2 4 5 7 }
+Customer ID: 950, Transaction ID: 208, Items: {2 5 6 7 }
+Customer ID: 47, Transaction ID: 209, Items: {1 3 4 5 6 7 }
+Customer ID: 668, Transaction ID: 210, Items: {3 5 6 }
+Customer ID: 692, Transaction ID: 211, Items: {1 2 3 4 5 6 7 }
+Customer ID: 626, Transaction ID: 212, Items: {1 2 6 7 }
+Customer ID: 584, Transaction ID: 213, Items: {1 2 4 6 7 }
+Customer ID: 469, Transaction ID: 214, Items: {1 2 3 6 7 }
+Customer ID: 444, Transaction ID: 215, Items: {1 2 3 4 5 6 }
+Customer ID: 76, Transaction ID: 216, Items: {1 3 5 6 }
+Customer ID: 40, Transaction ID: 217, Items: {1 4 }
+Customer ID: 268, Transaction ID: 218, Items: {2 3 }
+Customer ID: 621, Transaction ID: 219, Items: {2 4 6 7 }
+Customer ID: 300, Transaction ID: 220, Items: {2 }
+Customer ID: 29, Transaction ID: 221, Items: {1 3 6 7 }
+Customer ID: 597, Transaction ID: 222, Items: {3 4 5 6 7 }
+Customer ID: 345, Transaction ID: 223, Items: {1 2 3 5 6 7 }
+Customer ID: 38, Transaction ID: 224, Items: {1 3 4 5 6 7 }
+Customer ID: 857, Transaction ID: 225, Items: {1 2 3 4 5 7 }
+Customer ID: 73, Transaction ID: 226, Items: {1 2 3 4 5 6 7 }
+Customer ID: 440, Transaction ID: 227, Items: {1 3 4 7 }
+Customer ID: 611, Transaction ID: 228, Items: {1 2 3 4 5 6 7 }
+Customer ID: 982, Transaction ID: 229, Items: {5 }
+Customer ID: 274, Transaction ID: 230, Items: {3 4 5 7 }
+Customer ID: 781, Transaction ID: 231, Items: {1 2 3 4 5 6 7 }
+Customer ID: 714, Transaction ID: 232, Items: {2 7 }
+Customer ID: 661, Transaction ID: 233, Items: {1 2 3 4 5 6 7 }
+Customer ID: 899, Transaction ID: 234, Items: {1 2 4 6 7 }
+Customer ID: 633, Transaction ID: 235, Items: {1 7 }
+Customer ID: 651, Transaction ID: 236, Items: {2 3 4 5 7 }
+Customer ID: 297, Transaction ID: 237, Items: {5 }
+Customer ID: 419, Transaction ID: 238, Items: {1 2 3 4 5 6 7 }
+Customer ID: 598, Transaction ID: 239, Items: {1 3 4 5 6 7 }
+Customer ID: 842, Transaction ID: 240, Items: {1 2 6 7 }
+Customer ID: 876, Transaction ID: 241, Items: {2 6 }
+Customer ID: 604, Transaction ID: 242, Items: {1 2 3 4 5 6 }
+Customer ID: 534, Transaction ID: 243, Items: {1 2 3 4 5 7 }
+Customer ID: 909, Transaction ID: 244, Items: {2 3 4 6 7 }
+Customer ID: 405, Transaction ID: 245, Items: {1 2 3 5 6 7 }
+Customer ID: 27, Transaction ID: 246, Items: {1 3 4 5 7 }
+Customer ID: 464, Transaction ID: 247, Items: {1 2 3 5 7 }
+Customer ID: 865, Transaction ID: 248, Items: {2 3 4 5 6 7 }
+Customer ID: 941, Transaction ID: 249, Items: {2 3 4 }
+Customer ID: 485, Transaction ID: 250, Items: {2 3 }
+Customer ID: 483, Transaction ID: 251, Items: {2 5 7 }
+Customer ID: 652, Transaction ID: 252, Items: {2 3 6 7 }
+Customer ID: 740, Transaction ID: 253, Items: {1 2 3 5 7 }
+Customer ID: 237, Transaction ID: 254, Items: {1 2 3 4 6 7 }
+Customer ID: 599, Transaction ID: 255, Items: {1 2 3 4 5 }
+Customer ID: 697, Transaction ID: 256, Items: {3 5 }
+Customer ID: 456, Transaction ID: 257, Items: {1 2 4 5 6 7 }
+Customer ID: 751, Transaction ID: 258, Items: {1 3 4 5 6 }
+Customer ID: 878, Transaction ID: 259, Items: {4 6 }
+Customer ID: 167, Transaction ID: 260, Items: {1 3 6 }
+Customer ID: 903, Transaction ID: 261, Items: {2 3 4 }
+Customer ID: 913, Transaction ID: 262, Items: {1 2 4 5 6 }
+Customer ID: 377, Transaction ID: 263, Items: {3 6 7 }
+Customer ID: 238, Transaction ID: 264, Items: {2 5 7 }
+Customer ID: 890, Transaction ID: 265, Items: {2 4 5 6 7 }
+Customer ID: 738, Transaction ID: 266, Items: {1 2 4 6 7 }
+Customer ID: 73, Transaction ID: 267, Items: {1 3 4 7 }
+Customer ID: 292, Transaction ID: 268, Items: {6 }
+Customer ID: 128, Transaction ID: 269, Items: {1 2 5 7 }
+Customer ID: 76, Transaction ID: 270, Items: {1 4 7 }
+Customer ID: 844, Transaction ID: 271, Items: {1 6 7 }
+Customer ID: 911, Transaction ID: 272, Items: {2 3 4 5 6 7 }
+Customer ID: 57, Transaction ID: 273, Items: {1 2 3 4 5 6 7 }
+Customer ID: 15, Transaction ID: 274, Items: {1 2 4 5 6 7 }
+Customer ID: 609, Transaction ID: 275, Items: {3 4 5 6 }
+Customer ID: 397, Transaction ID: 276, Items: {3 4 5 6 7 }
+Customer ID: 235, Transaction ID: 277, Items: {1 2 5 6 7 }
+Customer ID: 333, Transaction ID: 278, Items: {1 2 3 4 5 6 7 }
+Customer ID: 62, Transaction ID: 279, Items: {1 2 3 4 5 6 7 }
+Customer ID: 620, Transaction ID: 280, Items: {1 2 4 5 6 7 }
+Customer ID: 974, Transaction ID: 281, Items: {1 2 3 4 5 6 7 }
+Customer ID: 924, Transaction ID: 282, Items: {2 3 4 5 6 7 }
+Customer ID: 4, Transaction ID: 283, Items: {2 }
+Customer ID: 725, Transaction ID: 284, Items: {4 7 }
+Customer ID: 698, Transaction ID: 285, Items: {1 2 3 4 5 7 }
+Customer ID: 919, Transaction ID: 286, Items: {1 2 3 4 5 6 7 }
+Customer ID: 727, Transaction ID: 287, Items: {1 7 }
+Customer ID: 303, Transaction ID: 288, Items: {1 2 3 4 5 6 7 }
+Customer ID: 618, Transaction ID: 289, Items: {2 5 }
+Customer ID: 249, Transaction ID: 290, Items: {1 2 3 5 6 7 }
+Customer ID: 376, Transaction ID: 291, Items: {1 2 3 6 }
+Customer ID: 943, Transaction ID: 292, Items: {6 }
+Customer ID: 950, Transaction ID: 293, Items: {1 4 5 6 }
+Customer ID: 493, Transaction ID: 294, Items: {1 2 3 5 6 7 }
+Customer ID: 180, Transaction ID: 295, Items: {2 3 4 5 }
+Customer ID: 104, Transaction ID: 296, Items: {1 2 3 5 7 }
+Customer ID: 539, Transaction ID: 297, Items: {1 2 3 4 5 7 }
+Customer ID: 576, Transaction ID: 298, Items: {1 2 3 4 5 6 7 }
+Customer ID: 568, Transaction ID: 299, Items: {1 2 3 4 5 6 7 }
+Customer ID: 823, Transaction ID: 300, Items: {2 3 4 5 7 }
+Customer ID: 176, Transaction ID: 301, Items: {5 }
+Customer ID: 923, Transaction ID: 302, Items: {1 4 5 6 }
+Customer ID: 255, Transaction ID: 303, Items: {1 2 3 6 7 }
+Customer ID: 254, Transaction ID: 304, Items: {7 }
+Customer ID: 915, Transaction ID: 305, Items: {1 2 3 4 5 6 7 }
+Customer ID: 560, Transaction ID: 306, Items: {1 2 3 4 5 6 7 }
+Customer ID: 339, Transaction ID: 307, Items: {1 2 5 7 }
+Customer ID: 189, Transaction ID: 308, Items: {2 5 }
+Customer ID: 905, Transaction ID: 309, Items: {2 3 4 6 }
+Customer ID: 436, Transaction ID: 310, Items: {1 6 7 }
+Customer ID: 108, Transaction ID: 311, Items: {1 3 4 5 }
+Customer ID: 922, Transaction ID: 312, Items: {1 2 3 4 5 6 }
+Customer ID: 100, Transaction ID: 313, Items: {1 3 5 6 7 }
+Customer ID: 175, Transaction ID: 314, Items: {1 2 5 }
+Customer ID: 235, Transaction ID: 315, Items: {1 2 3 4 5 6 7 }
+Customer ID: 187, Transaction ID: 316, Items: {5 7 }
+Customer ID: 915, Transaction ID: 317, Items: {1 5 }
+Customer ID: 679, Transaction ID: 318, Items: {1 2 3 4 6 }
+Customer ID: 895, Transaction ID: 319, Items: {2 3 4 5 6 7 }
+Customer ID: 483, Transaction ID: 320, Items: {1 2 3 4 5 7 }
+Customer ID: 372, Transaction ID: 321, Items: {6 }
+Customer ID: 520, Transaction ID: 322, Items: {1 2 4 5 6 }
+Customer ID: 7, Transaction ID: 323, Items: {1 2 3 6 7 }
+Customer ID: 131, Transaction ID: 324, Items: {1 2 4 6 7 }
+Customer ID: 673, Transaction ID: 325, Items: {1 2 3 4 6 7 }
+Customer ID: 861, Transaction ID: 326, Items: {7 }
+Customer ID: 498, Transaction ID: 327, Items: {1 4 }
+Customer ID: 674, Transaction ID: 328, Items: {4 }
+Customer ID: 572, Transaction ID: 329, Items: {3 }
+Customer ID: 615, Transaction ID: 330, Items: {5 7 }
+Customer ID: 680, Transaction ID: 331, Items: {1 2 3 4 5 6 7 }
+Customer ID: 297, Transaction ID: 332, Items: {1 }
+Customer ID: 754, Transaction ID: 333, Items: {3 }
+Customer ID: 137, Transaction ID: 334, Items: {3 4 5 6 7 }
+Customer ID: 583, Transaction ID: 335, Items: {3 4 7 }
+Customer ID: 84, Transaction ID: 336, Items: {1 2 4 5 6 }
+Customer ID: 313, Transaction ID: 337, Items: {1 5 }
+Customer ID: 736, Transaction ID: 338, Items: {3 7 }
+Customer ID: 959, Transaction ID: 339, Items: {3 4 6 7 }
+Customer ID: 392, Transaction ID: 340, Items: {1 2 3 5 6 }
+Customer ID: 519, Transaction ID: 341, Items: {1 2 3 4 5 6 7 }
+Customer ID: 423, Transaction ID: 342, Items: {1 2 3 5 6 7 }
+Customer ID: 181, Transaction ID: 343, Items: {1 2 3 4 5 6 7 }
+Customer ID: 284, Transaction ID: 344, Items: {1 2 3 4 5 7 }
+Customer ID: 309, Transaction ID: 345, Items: {1 3 4 5 6 7 }
+Customer ID: 179, Transaction ID: 346, Items: {2 3 6 7 }
+Customer ID: 579, Transaction ID: 347, Items: {1 2 3 4 5 6 }
+Customer ID: 75, Transaction ID: 348, Items: {7 }
+Customer ID: 173, Transaction ID: 349, Items: {1 2 3 4 5 6 7 }
+Customer ID: 540, Transaction ID: 350, Items: {1 2 3 4 5 6 7 }
+Customer ID: 109, Transaction ID: 351, Items: {1 2 3 6 7 }
+Customer ID: 11, Transaction ID: 352, Items: {1 2 4 5 7 }
+Customer ID: 71, Transaction ID: 353, Items: {1 4 5 }
+Customer ID: 342, Transaction ID: 354, Items: {1 2 3 6 7 }
+Customer ID: 512, Transaction ID: 355, Items: {1 2 5 6 7 }
+Customer ID: 794, Transaction ID: 356, Items: {5 }
+Customer ID: 359, Transaction ID: 357, Items: {1 2 3 5 6 7 }
+Customer ID: 228, Transaction ID: 358, Items: {4 5 7 }
+Customer ID: 439, Transaction ID: 359, Items: {2 3 4 5 6 }
+Customer ID: 315, Transaction ID: 360, Items: {1 2 4 6 }
+Customer ID: 563, Transaction ID: 361, Items: {1 2 3 4 5 6 }
+Customer ID: 473, Transaction ID: 362, Items: {1 2 3 4 7 }
+Customer ID: 280, Transaction ID: 363, Items: {1 2 4 5 6 }
+Customer ID: 881, Transaction ID: 364, Items: {1 2 3 4 5 6 }
+Customer ID: 788, Transaction ID: 365, Items: {1 7 }
+Customer ID: 237, Transaction ID: 366, Items: {1 2 3 5 6 7 }
+Customer ID: 363, Transaction ID: 367, Items: {2 5 }
+Customer ID: 132, Transaction ID: 368, Items: {1 2 3 4 5 6 7 }
+Customer ID: 320, Transaction ID: 369, Items: {1 2 6 7 }
+Customer ID: 884, Transaction ID: 370, Items: {2 3 6 7 }
+Customer ID: 478, Transaction ID: 371, Items: {1 2 3 5 6 7 }
+Customer ID: 495, Transaction ID: 372, Items: {5 }
+Customer ID: 117, Transaction ID: 373, Items: {1 2 3 5 6 7 }
+Customer ID: 964, Transaction ID: 374, Items: {1 2 7 }
+Customer ID: 151, Transaction ID: 375, Items: {1 2 6 7 }
+Customer ID: 410, Transaction ID: 376, Items: {1 2 }
+Customer ID: 479, Transaction ID: 377, Items: {1 2 4 5 6 7 }
+Customer ID: 16, Transaction ID: 378, Items: {1 2 3 4 5 }
+Customer ID: 884, Transaction ID: 379, Items: {2 3 4 6 }
+Customer ID: 468, Transaction ID: 380, Items: {1 4 5 7 }
+Customer ID: 113, Transaction ID: 381, Items: {1 6 }
+Customer ID: 168, Transaction ID: 382, Items: {1 4 5 6 7 }
+Customer ID: 178, Transaction ID: 383, Items: {2 4 7 }
+Customer ID: 899, Transaction ID: 384, Items: {1 2 5 6 7 }
+Customer ID: 339, Transaction ID: 385, Items: {1 5 }
+Customer ID: 740, Transaction ID: 386, Items: {1 2 4 5 6 7 }
+Customer ID: 925, Transaction ID: 387, Items: {1 2 3 4 5 6 7 }
+Customer ID: 331, Transaction ID: 388, Items: {1 2 4 5 6 }
+Customer ID: 929, Transaction ID: 389, Items: {1 2 3 4 5 6 7 }
+Customer ID: 106, Transaction ID: 390, Items: {1 2 3 5 6 7 }
+Customer ID: 513, Transaction ID: 391, Items: {3 4 }
+Customer ID: 168, Transaction ID: 392, Items: {1 2 3 4 5 }
+Customer ID: 312, Transaction ID: 393, Items: {1 2 4 5 6 7 }
+Customer ID: 405, Transaction ID: 394, Items: {1 }
+Customer ID: 777, Transaction ID: 395, Items: {1 6 }
+Customer ID: 548, Transaction ID: 396, Items: {2 4 5 6 7 }
+Customer ID: 850, Transaction ID: 397, Items: {1 2 3 4 5 6 }
+Customer ID: 316, Transaction ID: 398, Items: {2 6 7 }
+Customer ID: 834, Transaction ID: 399, Items: {1 2 4 5 6 7 }
+Customer ID: 551, Transaction ID: 400, Items: {2 3 4 5 7 }
+Customer ID: 328, Transaction ID: 401, Items: {1 3 6 }
+Customer ID: 186, Transaction ID: 402, Items: {2 3 4 5 7 }
+Customer ID: 387, Transaction ID: 403, Items: {5 }
+Customer ID: 648, Transaction ID: 404, Items: {6 }
+Customer ID: 53, Transaction ID: 405, Items: {1 3 4 5 6 }
+Customer ID: 795, Transaction ID: 406, Items: {1 5 6 }
+Customer ID: 139, Transaction ID: 407, Items: {2 3 5 6 7 }
+Customer ID: 121, Transaction ID: 408, Items: {6 }
+Customer ID: 399, Transaction ID: 409, Items: {1 2 3 4 6 }
+Customer ID: 189, Transaction ID: 410, Items: {1 3 4 6 7 }
+Customer ID: 772, Transaction ID: 411, Items: {3 4 7 }
+Customer ID: 304, Transaction ID: 412, Items: {2 3 4 5 6 }
+Customer ID: 351, Transaction ID: 413, Items: {1 2 4 5 7 }
+Customer ID: 551, Transaction ID: 414, Items: {1 2 5 }
+Customer ID: 68, Transaction ID: 415, Items: {1 2 3 4 5 6 7 }
+Customer ID: 85, Transaction ID: 416, Items: {1 2 3 6 7 }
+Customer ID: 845, Transaction ID: 417, Items: {2 4 5 7 }
+Customer ID: 364, Transaction ID: 418, Items: {1 2 3 4 5 6 7 }
+Customer ID: 861, Transaction ID: 419, Items: {3 4 5 }
+Customer ID: 513, Transaction ID: 420, Items: {1 5 6 7 }
+Customer ID: 662, Transaction ID: 421, Items: {1 3 5 7 }
+Customer ID: 616, Transaction ID: 422, Items: {1 2 3 5 6 }
+Customer ID: 505, Transaction ID: 423, Items: {1 2 3 4 5 6 7 }
+Customer ID: 38, Transaction ID: 424, Items: {1 2 3 5 }
+Customer ID: 110, Transaction ID: 425, Items: {1 2 4 5 }
+Customer ID: 131, Transaction ID: 426, Items: {1 4 6 7 }
+Customer ID: 291, Transaction ID: 427, Items: {1 3 4 5 }
+Customer ID: 457, Transaction ID: 428, Items: {1 2 3 4 7 }
+Customer ID: 960, Transaction ID: 429, Items: {1 3 4 5 6 7 }
+Customer ID: 781, Transaction ID: 430, Items: {1 2 3 4 5 6 7 }
+Customer ID: 554, Transaction ID: 431, Items: {6 }
+Customer ID: 995, Transaction ID: 432, Items: {1 3 4 5 6 }
+Customer ID: 525, Transaction ID: 433, Items: {2 3 5 7 }
+Customer ID: 230, Transaction ID: 434, Items: {1 3 4 7 }
+Customer ID: 860, Transaction ID: 435, Items: {7 }
+Customer ID: 457, Transaction ID: 436, Items: {1 2 3 4 5 6 7 }
+Customer ID: 190, Transaction ID: 437, Items: {1 2 3 4 5 6 7 }
+Customer ID: 329, Transaction ID: 438, Items: {1 2 3 4 6 }
+Customer ID: 424, Transaction ID: 439, Items: {1 2 3 7 }
+Customer ID: 474, Transaction ID: 440, Items: {1 2 3 4 6 7 }
+Customer ID: 680, Transaction ID: 441, Items: {1 2 3 4 5 6 7 }
+Customer ID: 402, Transaction ID: 442, Items: {1 4 5 6 7 }
+Customer ID: 124, Transaction ID: 443, Items: {2 4 5 6 7 }
+Customer ID: 977, Transaction ID: 444, Items: {1 3 5 6 }
+Customer ID: 36, Transaction ID: 445, Items: {4 5 6 7 }
+Customer ID: 714, Transaction ID: 446, Items: {2 3 4 5 }
+Customer ID: 973, Transaction ID: 447, Items: {1 }
+Customer ID: 807, Transaction ID: 448, Items: {2 3 4 6 }
+Customer ID: 931, Transaction ID: 449, Items: {1 3 4 5 6 }
+Customer ID: 671, Transaction ID: 450, Items: {4 5 }
+Customer ID: 414, Transaction ID: 451, Items: {1 2 6 7 }
+Customer ID: 446, Transaction ID: 452, Items: {1 2 3 4 5 6 7 }
+Customer ID: 385, Transaction ID: 453, Items: {1 2 3 4 5 6 7 }
+Customer ID: 280, Transaction ID: 454, Items: {1 3 4 5 }
+Customer ID: 777, Transaction ID: 455, Items: {1 2 3 6 7 }
+Customer ID: 265, Transaction ID: 456, Items: {1 3 4 5 6 }
+Customer ID: 240, Transaction ID: 457, Items: {1 2 4 5 6 7 }
+Customer ID: 278, Transaction ID: 458, Items: {1 2 5 6 7 }
+Customer ID: 963, Transaction ID: 459, Items: {6 }
+Customer ID: 624, Transaction ID: 460, Items: {4 5 6 }
+Customer ID: 774, Transaction ID: 461, Items: {3 }
+Customer ID: 234, Transaction ID: 462, Items: {2 4 6 }
+Customer ID: 164, Transaction ID: 463, Items: {1 2 3 4 6 7 }
+Customer ID: 864, Transaction ID: 464, Items: {4 }
+Customer ID: 962, Transaction ID: 465, Items: {1 2 3 4 }
+Customer ID: 131, Transaction ID: 466, Items: {2 3 4 5 6 7 }
+Customer ID: 169, Transaction ID: 467, Items: {1 4 6 }
+Customer ID: 958, Transaction ID: 468, Items: {1 2 3 5 6 7 }
+Customer ID: 117, Transaction ID: 469, Items: {1 2 3 4 5 7 }
+Customer ID: 115, Transaction ID: 470, Items: {1 2 4 5 6 7 }
+Customer ID: 690, Transaction ID: 471, Items: {2 3 5 6 7 }
+Customer ID: 684, Transaction ID: 472, Items: {1 3 4 6 7 }
+Customer ID: 746, Transaction ID: 473, Items: {2 3 4 5 6 }
+Customer ID: 145, Transaction ID: 474, Items: {1 3 4 5 6 7 }
+Customer ID: 597, Transaction ID: 475, Items: {2 4 5 }
+Customer ID: 783, Transaction ID: 476, Items: {1 2 4 7 }
+Customer ID: 12, Transaction ID: 477, Items: {1 2 3 4 5 6 }
+Customer ID: 582, Transaction ID: 478, Items: {1 5 }
+Customer ID: 565, Transaction ID: 479, Items: {1 2 3 5 6 }
+Customer ID: 336, Transaction ID: 480, Items: {1 2 3 4 5 6 7 }
+Customer ID: 57, Transaction ID: 481, Items: {1 2 3 5 6 }
+Customer ID: 67, Transaction ID: 482, Items: {1 4 7 }
+Customer ID: 813, Transaction ID: 483, Items: {3 7 }
+Customer ID: 12, Transaction ID: 484, Items: {1 2 3 4 5 6 7 }
+Customer ID: 276, Transaction ID: 485, Items: {1 3 4 6 7 }
+Customer ID: 390, Transaction ID: 486, Items: {1 2 3 4 6 7 }
+Customer ID: 669, Transaction ID: 487, Items: {1 3 4 5 7 }
+Customer ID: 781, Transaction ID: 488, Items: {3 7 }
+Customer ID: 560, Transaction ID: 489, Items: {2 5 6 }
+Customer ID: 845, Transaction ID: 490, Items: {1 2 3 4 5 6 7 }
+Customer ID: 237, Transaction ID: 491, Items: {1 4 5 7 }
+Customer ID: 515, Transaction ID: 492, Items: {1 2 5 7 }
+Customer ID: 534, Transaction ID: 493, Items: {1 2 3 4 5 6 7 }
+Customer ID: 717, Transaction ID: 494, Items: {1 2 4 5 6 7 }
+Customer ID: 489, Transaction ID: 495, Items: {1 2 6 }
+Customer ID: 14, Transaction ID: 496, Items: {1 2 3 4 5 6 7 }
+Customer ID: 308, Transaction ID: 497, Items: {2 3 4 6 }
+Customer ID: 434, Transaction ID: 498, Items: {2 3 5 6 7 }
+Customer ID: 664, Transaction ID: 499, Items: {1 2 3 4 5 6 7 }
+Customer ID: 383, Transaction ID: 500, Items: {5 6 7 }
+Customer ID: 110, Transaction ID: 501, Items: {1 3 4 6 }
+Customer ID: 528, Transaction ID: 502, Items: {1 2 3 4 5 6 7 }
+Customer ID: 685, Transaction ID: 503, Items: {2 3 4 5 7 }
+Customer ID: 464, Transaction ID: 504, Items: {1 2 3 4 7 }
+Customer ID: 797, Transaction ID: 505, Items: {2 3 4 5 7 }
+Customer ID: 583, Transaction ID: 506, Items: {1 2 4 }
+Customer ID: 896, Transaction ID: 507, Items: {1 2 3 6 }
+Customer ID: 689, Transaction ID: 508, Items: {1 }
+Customer ID: 312, Transaction ID: 509, Items: {3 }
+Customer ID: 216, Transaction ID: 510, Items: {1 3 6 }
+Customer ID: 484, Transaction ID: 511, Items: {1 2 5 6 }
+Customer ID: 191, Transaction ID: 512, Items: {2 7 }
+Customer ID: 541, Transaction ID: 513, Items: {2 3 4 5 6 7 }
+Customer ID: 700, Transaction ID: 514, Items: {2 4 6 }
+Customer ID: 166, Transaction ID: 515, Items: {1 2 4 5 7 }
+Customer ID: 35, Transaction ID: 516, Items: {1 2 3 7 }
+Customer ID: 433, Transaction ID: 517, Items: {1 3 4 }
+Customer ID: 204, Transaction ID: 518, Items: {1 2 4 5 6 7 }
+Customer ID: 44, Transaction ID: 519, Items: {1 3 6 7 }
+Customer ID: 86, Transaction ID: 520, Items: {1 2 3 4 6 }
+Customer ID: 269, Transaction ID: 521, Items: {2 3 6 7 }
+Customer ID: 507, Transaction ID: 522, Items: {1 2 3 4 5 6 7 }
+Customer ID: 704, Transaction ID: 523, Items: {2 7 }
+Customer ID: 86, Transaction ID: 524, Items: {1 2 5 }
+Customer ID: 986, Transaction ID: 525, Items: {2 3 4 5 6 }
+Customer ID: 153, Transaction ID: 526, Items: {2 3 4 5 6 7 }
+Customer ID: 222, Transaction ID: 527, Items: {1 2 3 5 6 7 }
+Customer ID: 321, Transaction ID: 528, Items: {3 4 6 7 }
+Customer ID: 709, Transaction ID: 529, Items: {3 5 6 7 }
+Customer ID: 148, Transaction ID: 530, Items: {1 4 5 7 }
+Customer ID: 789, Transaction ID: 531, Items: {2 3 4 5 }
+Customer ID: 532, Transaction ID: 532, Items: {2 3 4 5 7 }
+Customer ID: 75, Transaction ID: 533, Items: {2 }
+Customer ID: 356, Transaction ID: 534, Items: {1 2 4 5 6 7 }
+Customer ID: 737, Transaction ID: 535, Items: {1 2 3 4 5 6 }
+Customer ID: 77, Transaction ID: 536, Items: {1 3 4 6 7 }
+Customer ID: 401, Transaction ID: 537, Items: {1 2 3 4 5 }
+Customer ID: 160, Transaction ID: 538, Items: {6 }
+Customer ID: 955, Transaction ID: 539, Items: {1 2 3 4 5 6 }
+Customer ID: 898, Transaction ID: 540, Items: {3 4 5 6 7 }
+Customer ID: 812, Transaction ID: 541, Items: {1 2 3 4 5 6 7 }
+Customer ID: 184, Transaction ID: 542, Items: {1 4 5 7 }
+Customer ID: 777, Transaction ID: 543, Items: {1 2 3 5 7 }
+Customer ID: 527, Transaction ID: 544, Items: {1 4 6 }
+Customer ID: 360, Transaction ID: 545, Items: {5 6 7 }
+Customer ID: 851, Transaction ID: 546, Items: {1 2 3 4 6 7 }
+Customer ID: 286, Transaction ID: 547, Items: {1 5 6 }
+Customer ID: 267, Transaction ID: 548, Items: {5 }
+Customer ID: 31, Transaction ID: 549, Items: {3 4 }
+Customer ID: 932, Transaction ID: 550, Items: {1 3 4 5 6 7 }
+Customer ID: 686, Transaction ID: 551, Items: {2 3 4 6 }
+Customer ID: 396, Transaction ID: 552, Items: {2 5 6 7 }
+Customer ID: 391, Transaction ID: 553, Items: {1 2 3 4 5 6 }
+Customer ID: 554, Transaction ID: 554, Items: {1 3 7 }
+Customer ID: 55, Transaction ID: 555, Items: {1 2 3 5 6 7 }
+Customer ID: 39, Transaction ID: 556, Items: {1 2 4 6 }
+Customer ID: 525, Transaction ID: 557, Items: {1 2 4 5 6 7 }
+Customer ID: 160, Transaction ID: 558, Items: {3 5 6 7 }
+Customer ID: 459, Transaction ID: 559, Items: {1 2 3 4 5 6 7 }
+Customer ID: 990, Transaction ID: 560, Items: {2 4 5 }
+Customer ID: 152, Transaction ID: 561, Items: {1 3 6 7 }
+Customer ID: 825, Transaction ID: 562, Items: {1 2 3 4 5 6 7 }
+Customer ID: 925, Transaction ID: 563, Items: {1 2 3 4 5 6 7 }
+Customer ID: 244, Transaction ID: 564, Items: {2 3 4 6 7 }
+Customer ID: 378, Transaction ID: 565, Items: {4 }
+Customer ID: 218, Transaction ID: 566, Items: {4 }
+Customer ID: 702, Transaction ID: 567, Items: {1 7 }
+Customer ID: 328, Transaction ID: 568, Items: {1 2 3 5 6 7 }
+Customer ID: 447, Transaction ID: 569, Items: {7 }
+Customer ID: 717, Transaction ID: 570, Items: {1 2 3 7 }
+Customer ID: 916, Transaction ID: 571, Items: {2 3 5 6 7 }
+Customer ID: 471, Transaction ID: 572, Items: {3 6 }
+Customer ID: 473, Transaction ID: 573, Items: {2 }
+Customer ID: 757, Transaction ID: 574, Items: {1 2 3 4 6 7 }
+Customer ID: 75, Transaction ID: 575, Items: {2 4 6 7 }
+Customer ID: 925, Transaction ID: 576, Items: {1 3 4 5 6 7 }
+Customer ID: 598, Transaction ID: 577, Items: {3 6 }
+Customer ID: 485, Transaction ID: 578, Items: {1 3 5 }
+Customer ID: 39, Transaction ID: 579, Items: {1 3 4 5 6 }
+Customer ID: 380, Transaction ID: 580, Items: {1 2 4 5 6 7 }
+Customer ID: 206, Transaction ID: 581, Items: {1 7 }
+Customer ID: 891, Transaction ID: 582, Items: {1 3 }
+Customer ID: 135, Transaction ID: 583, Items: {7 }
+Customer ID: 321, Transaction ID: 584, Items: {2 }
+Customer ID: 32, Transaction ID: 585, Items: {1 2 3 4 6 7 }
+Customer ID: 794, Transaction ID: 586, Items: {1 6 7 }
+Customer ID: 577, Transaction ID: 587, Items: {3 4 5 6 7 }
+Customer ID: 30, Transaction ID: 588, Items: {1 2 5 7 }
+Customer ID: 18, Transaction ID: 589, Items: {1 2 6 }
+Customer ID: 436, Transaction ID: 590, Items: {1 2 3 4 5 6 7 }
+Customer ID: 85, Transaction ID: 591, Items: {1 3 4 5 7 }
+Customer ID: 369, Transaction ID: 592, Items: {1 3 6 }
+Customer ID: 3, Transaction ID: 593, Items: {5 7 }
+Customer ID: 135, Transaction ID: 594, Items: {2 3 7 }
+Customer ID: 47, Transaction ID: 595, Items: {1 2 3 4 5 }
+Customer ID: 495, Transaction ID: 596, Items: {6 }
+Customer ID: 367, Transaction ID: 597, Items: {1 3 4 5 6 7 }
+Customer ID: 825, Transaction ID: 598, Items: {2 3 4 5 7 }
+Customer ID: 628, Transaction ID: 599, Items: {1 2 3 4 5 7 }
+Customer ID: 541, Transaction ID: 600, Items: {2 3 5 6 7 }
+Customer ID: 826, Transaction ID: 601, Items: {2 3 4 5 7 }
+Customer ID: 626, Transaction ID: 602, Items: {1 2 3 4 6 7 }
+Customer ID: 775, Transaction ID: 603, Items: {1 2 3 4 5 7 }
+Customer ID: 44, Transaction ID: 604, Items: {1 2 3 4 5 6 }
+Customer ID: 884, Transaction ID: 605, Items: {3 4 5 7 }
+Customer ID: 523, Transaction ID: 606, Items: {1 2 3 4 6 7 }
+Customer ID: 707, Transaction ID: 607, Items: {1 2 5 6 7 }
+Customer ID: 598, Transaction ID: 608, Items: {2 3 4 5 6 7 }
+Customer ID: 878, Transaction ID: 609, Items: {1 3 4 5 6 }
+Customer ID: 390, Transaction ID: 610, Items: {4 6 7 }
+Customer ID: 396, Transaction ID: 611, Items: {1 2 4 5 }
+Customer ID: 99, Transaction ID: 612, Items: {2 3 4 6 }
+Customer ID: 929, Transaction ID: 613, Items: {1 3 4 5 6 7 }
+Customer ID: 897, Transaction ID: 614, Items: {1 3 4 6 7 }
+Customer ID: 490, Transaction ID: 615, Items: {1 2 3 4 6 }
+Customer ID: 150, Transaction ID: 616, Items: {1 4 5 6 7 }
+Customer ID: 913, Transaction ID: 617, Items: {1 2 3 4 6 7 }
+Customer ID: 290, Transaction ID: 618, Items: {1 2 3 4 6 }
+Customer ID: 972, Transaction ID: 619, Items: {3 5 7 }
+Customer ID: 233, Transaction ID: 620, Items: {1 2 3 4 5 7 }
+Customer ID: 315, Transaction ID: 621, Items: {1 2 3 4 6 7 }
+Customer ID: 799, Transaction ID: 622, Items: {1 2 }
+Customer ID: 455, Transaction ID: 623, Items: {1 2 3 5 6 7 }
+Customer ID: 386, Transaction ID: 624, Items: {1 2 3 4 5 6 7 }
+Customer ID: 754, Transaction ID: 625, Items: {2 7 }
+Customer ID: 848, Transaction ID: 626, Items: {1 2 3 5 6 }
+Customer ID: 524, Transaction ID: 627, Items: {1 2 3 4 5 6 7 }
+Customer ID: 270, Transaction ID: 628, Items: {3 }
+Customer ID: 845, Transaction ID: 629, Items: {1 2 4 5 6 }
+Customer ID: 21, Transaction ID: 630, Items: {1 2 3 4 6 7 }
+Customer ID: 483, Transaction ID: 631, Items: {3 4 6 7 }
+Customer ID: 368, Transaction ID: 632, Items: {1 2 3 4 5 }
+Customer ID: 803, Transaction ID: 633, Items: {1 2 3 4 6 }
+Customer ID: 802, Transaction ID: 634, Items: {2 5 7 }
+Customer ID: 600, Transaction ID: 635, Items: {1 3 4 5 6 7 }
+Customer ID: 73, Transaction ID: 636, Items: {4 5 6 7 }
+Customer ID: 910, Transaction ID: 637, Items: {1 2 3 4 5 7 }
+Customer ID: 265, Transaction ID: 638, Items: {1 3 4 5 6 7 }
+Customer ID: 78, Transaction ID: 639, Items: {1 2 3 5 6 7 }
+Customer ID: 407, Transaction ID: 640, Items: {1 2 3 5 6 7 }
+Customer ID: 909, Transaction ID: 641, Items: {1 4 }
+Customer ID: 850, Transaction ID: 642, Items: {1 2 3 4 6 7 }
+Customer ID: 44, Transaction ID: 643, Items: {2 3 6 }
+Customer ID: 514, Transaction ID: 644, Items: {2 3 4 6 7 }
+Customer ID: 960, Transaction ID: 645, Items: {1 4 5 7 }
+Customer ID: 861, Transaction ID: 646, Items: {1 4 5 6 7 }
+Customer ID: 747, Transaction ID: 647, Items: {5 6 }
+Customer ID: 629, Transaction ID: 648, Items: {1 2 3 5 7 }
+Customer ID: 309, Transaction ID: 649, Items: {2 3 4 5 7 }
+Customer ID: 863, Transaction ID: 650, Items: {1 2 3 4 5 6 7 }
+Customer ID: 310, Transaction ID: 651, Items: {1 2 4 5 6 }
+Customer ID: 405, Transaction ID: 652, Items: {1 2 3 4 5 6 7 }
+Customer ID: 433, Transaction ID: 653, Items: {1 2 5 }
+Customer ID: 457, Transaction ID: 654, Items: {1 2 6 }
+Customer ID: 786, Transaction ID: 655, Items: {3 6 7 }
+Customer ID: 50, Transaction ID: 656, Items: {1 2 7 }
+Customer ID: 931, Transaction ID: 657, Items: {1 2 3 4 5 7 }
+Customer ID: 79, Transaction ID: 658, Items: {2 4 5 }
+Customer ID: 420, Transaction ID: 659, Items: {2 3 5 }
+Customer ID: 924, Transaction ID: 660, Items: {1 2 3 4 5 6 }
+Customer ID: 638, Transaction ID: 661, Items: {2 4 5 6 }
+Customer ID: 528, Transaction ID: 662, Items: {1 2 3 4 5 6 7 }
+Customer ID: 937, Transaction ID: 663, Items: {3 }
+Customer ID: 107, Transaction ID: 664, Items: {1 2 3 4 5 6 }
+Customer ID: 579, Transaction ID: 665, Items: {1 2 3 5 6 7 }
+Customer ID: 99, Transaction ID: 666, Items: {2 3 7 }
+Customer ID: 45, Transaction ID: 667, Items: {1 2 3 4 5 6 7 }
+Customer ID: 612, Transaction ID: 668, Items: {1 2 4 5 6 7 }
+Customer ID: 775, Transaction ID: 669, Items: {1 2 4 5 7 }
+Customer ID: 587, Transaction ID: 670, Items: {1 2 3 4 7 }
+Customer ID: 979, Transaction ID: 671, Items: {2 3 4 5 6 7 }
+Customer ID: 76, Transaction ID: 672, Items: {3 5 }
+Customer ID: 302, Transaction ID: 673, Items: {1 2 3 4 5 6 7 }
+Customer ID: 787, Transaction ID: 674, Items: {4 6 7 }
+Customer ID: 588, Transaction ID: 675, Items: {4 5 6 7 }
+Customer ID: 766, Transaction ID: 676, Items: {5 }
+Customer ID: 29, Transaction ID: 677, Items: {1 2 3 5 6 7 }
+Customer ID: 629, Transaction ID: 678, Items: {1 4 5 7 }
+Customer ID: 615, Transaction ID: 679, Items: {1 2 3 5 6 7 }
+Customer ID: 491, Transaction ID: 680, Items: {1 2 3 5 6 7 }
+Customer ID: 426, Transaction ID: 681, Items: {1 2 3 4 6 7 }
+Customer ID: 401, Transaction ID: 682, Items: {1 2 3 4 5 6 }
+Customer ID: 101, Transaction ID: 683, Items: {1 2 3 5 6 7 }
+Customer ID: 9, Transaction ID: 684, Items: {4 }
+Customer ID: 839, Transaction ID: 685, Items: {1 3 4 5 7 }
+Customer ID: 938, Transaction ID: 686, Items: {6 7 }
+Customer ID: 945, Transaction ID: 687, Items: {2 3 5 7 }
+Customer ID: 254, Transaction ID: 688, Items: {1 2 3 6 7 }
+Customer ID: 993, Transaction ID: 689, Items: {1 2 4 5 6 }
+Customer ID: 376, Transaction ID: 690, Items: {2 7 }
+Customer ID: 254, Transaction ID: 691, Items: {1 2 3 6 7 }
+Customer ID: 776, Transaction ID: 692, Items: {2 3 4 5 6 7 }
+Customer ID: 353, Transaction ID: 693, Items: {1 2 3 4 5 7 }
+Customer ID: 367, Transaction ID: 694, Items: {7 }
+Customer ID: 479, Transaction ID: 695, Items: {3 5 }
+Customer ID: 503, Transaction ID: 696, Items: {3 4 5 }
+Customer ID: 247, Transaction ID: 697, Items: {1 2 4 5 7 }
+Customer ID: 47, Transaction ID: 698, Items: {3 4 5 7 }
+Customer ID: 425, Transaction ID: 699, Items: {1 2 3 4 5 6 7 }
+Customer ID: 418, Transaction ID: 700, Items: {3 4 6 }
+Customer ID: 833, Transaction ID: 701, Items: {2 4 6 }
+Customer ID: 448, Transaction ID: 702, Items: {1 2 4 5 6 7 }
+Customer ID: 576, Transaction ID: 703, Items: {1 2 4 6 7 }
+Customer ID: 253, Transaction ID: 704, Items: {3 6 }
+Customer ID: 895, Transaction ID: 705, Items: {1 2 4 5 6 7 }
+Customer ID: 43, Transaction ID: 706, Items: {2 3 5 6 7 }
+Customer ID: 461, Transaction ID: 707, Items: {2 5 }
+Customer ID: 756, Transaction ID: 708, Items: {2 5 6 7 }
+Customer ID: 547, Transaction ID: 709, Items: {1 3 5 6 7 }
+Customer ID: 46, Transaction ID: 710, Items: {1 3 4 5 6 7 }
+Customer ID: 916, Transaction ID: 711, Items: {1 4 5 6 }
+Customer ID: 410, Transaction ID: 712, Items: {2 4 5 6 7 }
+Customer ID: 280, Transaction ID: 713, Items: {1 3 5 7 }
+Customer ID: 670, Transaction ID: 714, Items: {1 2 3 4 5 7 }
+Customer ID: 7, Transaction ID: 715, Items: {3 4 6 7 }
+Customer ID: 816, Transaction ID: 716, Items: {1 2 3 4 }
+Customer ID: 425, Transaction ID: 717, Items: {4 5 7 }
+Customer ID: 290, Transaction ID: 718, Items: {1 2 3 5 7 }
+Customer ID: 592, Transaction ID: 719, Items: {2 3 4 5 6 7 }
+Customer ID: 441, Transaction ID: 720, Items: {1 2 3 4 5 }
+Customer ID: 733, Transaction ID: 721, Items: {1 2 3 4 5 7 }
+Customer ID: 887, Transaction ID: 722, Items: {1 2 4 }
+Customer ID: 1, Transaction ID: 723, Items: {1 2 3 5 7 }
+Customer ID: 921, Transaction ID: 724, Items: {1 2 3 4 6 7 }
+Customer ID: 55, Transaction ID: 725, Items: {1 2 3 4 5 6 7 }
+Customer ID: 30, Transaction ID: 726, Items: {1 2 4 5 6 }
+Customer ID: 542, Transaction ID: 727, Items: {1 2 3 4 6 7 }
+Customer ID: 961, Transaction ID: 728, Items: {7 }
+Customer ID: 195, Transaction ID: 729, Items: {1 2 4 7 }
+Customer ID: 770, Transaction ID: 730, Items: {1 2 3 4 6 7 }
+Customer ID: 275, Transaction ID: 731, Items: {1 2 6 }
+Customer ID: 349, Transaction ID: 732, Items: {2 7 }
+Customer ID: 448, Transaction ID: 733, Items: {1 2 3 4 5 6 7 }
+Customer ID: 207, Transaction ID: 734, Items: {1 3 4 5 6 7 }
+Customer ID: 212, Transaction ID: 735, Items: {3 6 7 }
+Customer ID: 128, Transaction ID: 736, Items: {1 2 6 7 }
+Customer ID: 451, Transaction ID: 737, Items: {4 }
+Customer ID: 978, Transaction ID: 738, Items: {1 3 4 5 6 }
+Customer ID: 657, Transaction ID: 739, Items: {1 3 4 5 6 }
+Customer ID: 93, Transaction ID: 740, Items: {2 4 6 }
+Customer ID: 863, Transaction ID: 741, Items: {1 2 4 6 }
+Customer ID: 329, Transaction ID: 742, Items: {1 2 3 5 6 }
+Customer ID: 864, Transaction ID: 743, Items: {1 2 3 5 6 }
+Customer ID: 597, Transaction ID: 744, Items: {1 2 5 6 7 }
+Customer ID: 154, Transaction ID: 745, Items: {1 4 5 7 }
+Customer ID: 891, Transaction ID: 746, Items: {1 2 3 4 5 6 }
+Customer ID: 15, Transaction ID: 747, Items: {1 2 4 5 6 7 }
+Customer ID: 525, Transaction ID: 748, Items: {1 3 4 5 7 }
+Customer ID: 736, Transaction ID: 749, Items: {4 7 }
+Customer ID: 237, Transaction ID: 750, Items: {1 5 7 }
+Customer ID: 241, Transaction ID: 751, Items: {1 2 3 4 5 7 }
+Customer ID: 257, Transaction ID: 752, Items: {1 }
+Customer ID: 366, Transaction ID: 753, Items: {1 2 3 4 5 6 }
+Customer ID: 337, Transaction ID: 754, Items: {1 3 4 5 6 }
+Customer ID: 440, Transaction ID: 755, Items: {1 4 5 6 7 }
+Customer ID: 257, Transaction ID: 756, Items: {2 3 4 6 7 }
+Customer ID: 289, Transaction ID: 757, Items: {1 2 4 5 6 }
+Customer ID: 189, Transaction ID: 758, Items: {3 7 }
+Customer ID: 873, Transaction ID: 759, Items: {2 3 5 6 7 }
+Customer ID: 487, Transaction ID: 760, Items: {1 2 3 4 5 6 7 }
+Customer ID: 688, Transaction ID: 761, Items: {2 3 4 6 7 }
+Customer ID: 809, Transaction ID: 762, Items: {1 3 5 6 7 }
+Customer ID: 617, Transaction ID: 763, Items: {3 7 }
+Customer ID: 275, Transaction ID: 764, Items: {1 4 5 7 }
+Customer ID: 688, Transaction ID: 765, Items: {1 2 3 4 7 }
+Customer ID: 713, Transaction ID: 766, Items: {1 2 3 5 6 7 }
+Customer ID: 762, Transaction ID: 767, Items: {3 }
+Customer ID: 417, Transaction ID: 768, Items: {6 }
+Customer ID: 827, Transaction ID: 769, Items: {1 3 5 }
+Customer ID: 127, Transaction ID: 770, Items: {1 }
+Customer ID: 53, Transaction ID: 771, Items: {1 4 5 6 7 }
+Customer ID: 645, Transaction ID: 772, Items: {2 }
+Customer ID: 993, Transaction ID: 773, Items: {1 2 3 4 5 6 7 }
+Customer ID: 343, Transaction ID: 774, Items: {1 2 3 5 6 }
+Customer ID: 851, Transaction ID: 775, Items: {2 3 7 }
+Customer ID: 171, Transaction ID: 776, Items: {3 }
+Customer ID: 993, Transaction ID: 777, Items: {1 5 }
+Customer ID: 663, Transaction ID: 778, Items: {2 3 4 5 6 7 }
+Customer ID: 76, Transaction ID: 779, Items: {1 2 4 5 6 7 }
+Customer ID: 271, Transaction ID: 780, Items: {1 2 3 4 5 7 }
+Customer ID: 852, Transaction ID: 781, Items: {1 2 3 5 7 }
+Customer ID: 463, Transaction ID: 782, Items: {1 2 3 4 5 7 }
+Customer ID: 207, Transaction ID: 783, Items: {2 4 5 6 7 }
+Customer ID: 161, Transaction ID: 784, Items: {1 4 5 7 }
+Customer ID: 868, Transaction ID: 785, Items: {1 3 }
+Customer ID: 510, Transaction ID: 786, Items: {1 3 7 }
+Customer ID: 798, Transaction ID: 787, Items: {1 2 3 5 6 }
+Customer ID: 799, Transaction ID: 788, Items: {3 4 5 7 }
+Customer ID: 7, Transaction ID: 789, Items: {1 2 3 4 6 7 }
+Customer ID: 155, Transaction ID: 790, Items: {1 2 3 4 5 6 7 }
+Customer ID: 440, Transaction ID: 791, Items: {2 3 4 5 6 7 }
+Customer ID: 222, Transaction ID: 792, Items: {5 }
+Customer ID: 328, Transaction ID: 793, Items: {1 2 3 5 6 7 }
+Customer ID: 455, Transaction ID: 794, Items: {1 4 6 }
+Customer ID: 308, Transaction ID: 795, Items: {1 3 6 }
+Customer ID: 872, Transaction ID: 796, Items: {2 3 5 6 7 }
+Customer ID: 623, Transaction ID: 797, Items: {2 3 4 5 6 7 }
+Customer ID: 971, Transaction ID: 798, Items: {1 2 3 4 5 6 7 }
+Customer ID: 184, Transaction ID: 799, Items: {1 2 4 5 6 }
+Customer ID: 900, Transaction ID: 800, Items: {2 3 4 5 6 7 }
+Customer ID: 826, Transaction ID: 801, Items: {1 2 3 4 6 7 }
+Customer ID: 346, Transaction ID: 802, Items: {3 }
+Customer ID: 326, Transaction ID: 803, Items: {4 }
+Customer ID: 1, Transaction ID: 804, Items: {1 2 4 5 6 7 }
+Customer ID: 774, Transaction ID: 805, Items: {1 3 4 6 7 }
+Customer ID: 311, Transaction ID: 806, Items: {3 7 }
+Customer ID: 945, Transaction ID: 807, Items: {1 2 3 4 5 6 7 }
+Customer ID: 94, Transaction ID: 808, Items: {3 4 5 6 7 }
+Customer ID: 120, Transaction ID: 809, Items: {1 2 3 4 5 7 }
+Customer ID: 645, Transaction ID: 810, Items: {1 3 4 5 6 }
+Customer ID: 24, Transaction ID: 811, Items: {1 2 3 4 5 6 7 }
+Customer ID: 213, Transaction ID: 812, Items: {2 3 4 5 7 }
+Customer ID: 733, Transaction ID: 813, Items: {1 2 3 4 6 }
+Customer ID: 293, Transaction ID: 814, Items: {1 4 }
+Customer ID: 736, Transaction ID: 815, Items: {1 2 3 4 }
+Customer ID: 460, Transaction ID: 816, Items: {2 3 6 7 }
+Customer ID: 570, Transaction ID: 817, Items: {3 4 5 6 7 }
+Customer ID: 581, Transaction ID: 818, Items: {2 3 4 5 6 7 }
+Customer ID: 459, Transaction ID: 819, Items: {1 2 4 6 }
+Customer ID: 932, Transaction ID: 820, Items: {4 5 6 7 }
+Customer ID: 344, Transaction ID: 821, Items: {1 3 }
+Customer ID: 160, Transaction ID: 822, Items: {1 2 4 5 6 7 }
+Customer ID: 297, Transaction ID: 823, Items: {2 3 4 5 6 7 }
+Customer ID: 718, Transaction ID: 824, Items: {1 2 3 4 5 6 7 }
+Customer ID: 183, Transaction ID: 825, Items: {1 3 4 6 7 }
+Customer ID: 979, Transaction ID: 826, Items: {3 4 6 7 }
+Customer ID: 113, Transaction ID: 827, Items: {1 3 4 5 }
+Customer ID: 82, Transaction ID: 828, Items: {2 4 7 }
+Customer ID: 301, Transaction ID: 829, Items: {1 4 5 7 }
+Customer ID: 93, Transaction ID: 830, Items: {1 3 4 5 6 }
+Customer ID: 148, Transaction ID: 831, Items: {2 3 4 7 }
+Customer ID: 893, Transaction ID: 832, Items: {6 }
+Customer ID: 204, Transaction ID: 833, Items: {1 2 3 4 5 6 7 }
+Customer ID: 563, Transaction ID: 834, Items: {2 3 5 7 }
+Customer ID: 407, Transaction ID: 835, Items: {5 6 }
+Customer ID: 424, Transaction ID: 836, Items: {1 2 3 4 5 6 7 }
+Customer ID: 827, Transaction ID: 837, Items: {1 2 3 5 6 7 }
+Customer ID: 447, Transaction ID: 838, Items: {2 3 }
+Customer ID: 112, Transaction ID: 839, Items: {3 4 7 }
+Customer ID: 46, Transaction ID: 840, Items: {1 6 }
+Customer ID: 762, Transaction ID: 841, Items: {3 5 }
+Customer ID: 772, Transaction ID: 842, Items: {2 5 6 7 }
+Customer ID: 666, Transaction ID: 843, Items: {1 3 4 5 7 }
+Customer ID: 869, Transaction ID: 844, Items: {1 4 5 7 }
+Customer ID: 976, Transaction ID: 845, Items: {3 6 }
+Customer ID: 602, Transaction ID: 846, Items: {5 }
+Customer ID: 88, Transaction ID: 847, Items: {1 2 3 4 5 }
+Customer ID: 599, Transaction ID: 848, Items: {1 4 5 6 7 }
+Customer ID: 354, Transaction ID: 849, Items: {1 2 3 5 7 }
+Customer ID: 191, Transaction ID: 850, Items: {2 3 5 7 }
+Customer ID: 885, Transaction ID: 851, Items: {1 2 3 4 5 6 7 }
+Customer ID: 379, Transaction ID: 852, Items: {1 2 3 4 5 6 7 }
+Customer ID: 368, Transaction ID: 853, Items: {1 6 }
+Customer ID: 423, Transaction ID: 854, Items: {2 3 4 5 6 7 }
+Customer ID: 37, Transaction ID: 855, Items: {1 2 3 4 5 7 }
+Customer ID: 915, Transaction ID: 856, Items: {1 2 3 4 5 6 7 }
+Customer ID: 338, Transaction ID: 857, Items: {1 2 3 5 6 7 }
+Customer ID: 356, Transaction ID: 858, Items: {1 4 5 6 }
+Customer ID: 954, Transaction ID: 859, Items: {1 2 3 5 6 7 }
+Customer ID: 492, Transaction ID: 860, Items: {1 2 3 4 5 6 7 }
+Customer ID: 332, Transaction ID: 861, Items: {2 4 7 }
+Customer ID: 975, Transaction ID: 862, Items: {3 4 6 }
+Customer ID: 739, Transaction ID: 863, Items: {1 2 3 4 5 6 7 }
+Customer ID: 651, Transaction ID: 864, Items: {1 3 4 5 6 7 }
+Customer ID: 945, Transaction ID: 865, Items: {1 7 }
+Customer ID: 853, Transaction ID: 866, Items: {5 6 }
+Customer ID: 955, Transaction ID: 867, Items: {1 4 5 }
+Customer ID: 185, Transaction ID: 868, Items: {1 2 4 5 6 7 }
+Customer ID: 224, Transaction ID: 869, Items: {1 4 5 6 7 }
+Customer ID: 556, Transaction ID: 870, Items: {3 5 6 7 }
+Customer ID: 92, Transaction ID: 871, Items: {1 2 3 4 5 6 7 }
+Customer ID: 484, Transaction ID: 872, Items: {1 2 3 6 7 }
+Customer ID: 352, Transaction ID: 873, Items: {1 7 }
+Customer ID: 475, Transaction ID: 874, Items: {1 2 3 5 6 7 }
+Customer ID: 316, Transaction ID: 875, Items: {1 2 3 4 5 6 7 }
+Customer ID: 419, Transaction ID: 876, Items: {1 2 5 6 7 }
+Customer ID: 258, Transaction ID: 877, Items: {4 6 }
+Customer ID: 26, Transaction ID: 878, Items: {2 3 5 6 7 }
+Customer ID: 419, Transaction ID: 879, Items: {1 2 3 4 6 }
+Customer ID: 827, Transaction ID: 880, Items: {2 3 5 7 }
+Customer ID: 406, Transaction ID: 881, Items: {1 2 4 5 6 7 }
+Customer ID: 689, Transaction ID: 882, Items: {1 2 3 4 5 6 7 }
+Customer ID: 659, Transaction ID: 883, Items: {1 2 6 7 }
+Customer ID: 383, Transaction ID: 884, Items: {1 2 3 6 7 }
+Customer ID: 341, Transaction ID: 885, Items: {1 3 4 6 7 }
+Customer ID: 7, Transaction ID: 886, Items: {2 5 6 7 }
+Customer ID: 753, Transaction ID: 887, Items: {1 2 3 4 5 6 }
+Customer ID: 54, Transaction ID: 888, Items: {1 2 3 4 5 7 }
+Customer ID: 185, Transaction ID: 889, Items: {1 2 3 4 5 6 }
+Customer ID: 505, Transaction ID: 890, Items: {5 }
+Customer ID: 93, Transaction ID: 891, Items: {1 3 6 7 }
+Customer ID: 249, Transaction ID: 892, Items: {1 4 6 }
+Customer ID: 354, Transaction ID: 893, Items: {1 2 }
+Customer ID: 552, Transaction ID: 894, Items: {2 3 5 }
+Customer ID: 661, Transaction ID: 895, Items: {6 }
+Customer ID: 232, Transaction ID: 896, Items: {4 5 6 7 }
+Customer ID: 535, Transaction ID: 897, Items: {1 2 3 4 5 6 7 }
+Customer ID: 984, Transaction ID: 898, Items: {1 2 3 4 5 6 7 }
+Customer ID: 905, Transaction ID: 899, Items: {2 3 4 5 6 7 }
+Customer ID: 413, Transaction ID: 900, Items: {2 3 4 5 6 7 }
+Customer ID: 973, Transaction ID: 901, Items: {1 2 5 7 }
+Customer ID: 158, Transaction ID: 902, Items: {1 2 3 4 6 7 }
+Customer ID: 454, Transaction ID: 903, Items: {1 2 }
+Customer ID: 507, Transaction ID: 904, Items: {1 2 3 4 5 6 7 }
+Customer ID: 181, Transaction ID: 905, Items: {4 6 }
+Customer ID: 174, Transaction ID: 906, Items: {1 2 3 4 5 6 7 }
+Customer ID: 269, Transaction ID: 907, Items: {1 2 3 5 }
+Customer ID: 851, Transaction ID: 908, Items: {1 2 3 4 6 }
+Customer ID: 592, Transaction ID: 909, Items: {2 3 4 5 7 }
+Customer ID: 553, Transaction ID: 910, Items: {2 3 4 5 6 7 }
+Customer ID: 424, Transaction ID: 911, Items: {1 5 6 7 }
+Customer ID: 467, Transaction ID: 912, Items: {1 2 3 7 }
+Customer ID: 610, Transaction ID: 913, Items: {1 2 3 4 5 7 }
+Customer ID: 850, Transaction ID: 914, Items: {1 7 }
+Customer ID: 670, Transaction ID: 915, Items: {1 2 4 5 6 7 }
+Customer ID: 83, Transaction ID: 916, Items: {3 6 7 }
+Customer ID: 903, Transaction ID: 917, Items: {1 2 3 5 6 }
+Customer ID: 454, Transaction ID: 918, Items: {3 6 }
+Customer ID: 942, Transaction ID: 919, Items: {2 }
+Customer ID: 988, Transaction ID: 920, Items: {4 7 }
+Customer ID: 444, Transaction ID: 921, Items: {4 }
+Customer ID: 69, Transaction ID: 922, Items: {7 }
+Customer ID: 819, Transaction ID: 923, Items: {3 5 6 7 }
+Customer ID: 144, Transaction ID: 924, Items: {1 2 7 }
+Customer ID: 997, Transaction ID: 925, Items: {3 5 7 }
+Customer ID: 985, Transaction ID: 926, Items: {1 5 6 7 }
+Customer ID: 101, Transaction ID: 927, Items: {1 3 6 7 }
+Customer ID: 314, Transaction ID: 928, Items: {1 2 3 4 5 6 7 }
+Customer ID: 223, Transaction ID: 929, Items: {1 2 3 4 5 6 7 }
+Customer ID: 68, Transaction ID: 930, Items: {3 4 5 7 }
+Customer ID: 317, Transaction ID: 931, Items: {1 2 3 4 5 6 7 }
+Customer ID: 38, Transaction ID: 932, Items: {3 }
+Customer ID: 34, Transaction ID: 933, Items: {1 2 5 6 }
+Customer ID: 465, Transaction ID: 934, Items: {1 2 3 4 5 6 7 }
+Customer ID: 67, Transaction ID: 935, Items: {1 2 4 6 7 }
+Customer ID: 624, Transaction ID: 936, Items: {1 2 3 4 5 6 }
+Customer ID: 843, Transaction ID: 937, Items: {5 6 7 }
+Customer ID: 712, Transaction ID: 938, Items: {1 2 }
+Customer ID: 197, Transaction ID: 939, Items: {1 3 4 5 7 }
+Customer ID: 407, Transaction ID: 940, Items: {1 2 3 4 6 7 }
+Customer ID: 999, Transaction ID: 941, Items: {1 2 5 6 7 }
+Customer ID: 98, Transaction ID: 942, Items: {1 2 4 5 6 7 }
+Customer ID: 162, Transaction ID: 943, Items: {1 2 3 4 5 6 7 }
+Customer ID: 96, Transaction ID: 944, Items: {1 2 3 4 5 6 7 }
+Customer ID: 221, Transaction ID: 945, Items: {2 3 5 6 7 }
+Customer ID: 225, Transaction ID: 946, Items: {3 5 6 }
+Customer ID: 339, Transaction ID: 947, Items: {3 6 7 }
+Customer ID: 757, Transaction ID: 948, Items: {1 2 3 4 5 6 7 }
+Customer ID: 51, Transaction ID: 949, Items: {1 2 3 4 5 }
+Customer ID: 441, Transaction ID: 950, Items: {1 3 5 6 }
+Customer ID: 70, Transaction ID: 951, Items: {2 5 7 }
+Customer ID: 61, Transaction ID: 952, Items: {1 2 3 4 5 7 }
+Customer ID: 820, Transaction ID: 953, Items: {1 2 3 4 6 }
+Customer ID: 573, Transaction ID: 954, Items: {1 2 3 4 5 6 7 }
+Customer ID: 142, Transaction ID: 955, Items: {1 2 5 6 7 }
+Customer ID: 576, Transaction ID: 956, Items: {1 4 6 }
+Customer ID: 245, Transaction ID: 957, Items: {1 2 3 4 5 7 }
+Customer ID: 104, Transaction ID: 958, Items: {4 6 7 }
+Customer ID: 85, Transaction ID: 959, Items: {1 2 3 4 5 6 7 }
+Customer ID: 937, Transaction ID: 960, Items: {1 2 }
+Customer ID: 216, Transaction ID: 961, Items: {1 3 5 6 7 }
+Customer ID: 123, Transaction ID: 962, Items: {1 2 3 4 5 6 7 }
+Customer ID: 68, Transaction ID: 963, Items: {1 2 3 4 5 6 7 }
+Customer ID: 181, Transaction ID: 964, Items: {1 3 5 7 }
+Customer ID: 446, Transaction ID: 965, Items: {2 4 6 7 }
+Customer ID: 964, Transaction ID: 966, Items: {1 2 3 4 5 6 7 }
+Customer ID: 428, Transaction ID: 967, Items: {1 2 4 5 6 7 }
+Customer ID: 639, Transaction ID: 968, Items: {2 3 5 6 7 }
+Customer ID: 232, Transaction ID: 969, Items: {1 5 7 }
+Customer ID: 73, Transaction ID: 970, Items: {5 6 }
+Customer ID: 405, Transaction ID: 971, Items: {1 2 3 4 5 6 7 }
+Customer ID: 337, Transaction ID: 972, Items: {1 2 3 4 5 6 7 }
+Customer ID: 806, Transaction ID: 973, Items: {1 2 }
+Customer ID: 911, Transaction ID: 974, Items: {2 5 7 }
+Customer ID: 38, Transaction ID: 975, Items: {1 2 3 4 5 6 7 }
+Customer ID: 440, Transaction ID: 976, Items: {1 3 4 5 7 }
+Customer ID: 367, Transaction ID: 977, Items: {1 2 3 4 7 }
+Customer ID: 128, Transaction ID: 978, Items: {1 2 3 4 5 6 7 }
+Customer ID: 810, Transaction ID: 979, Items: {1 2 3 4 5 6 7 }
+Customer ID: 27, Transaction ID: 980, Items: {1 3 4 5 6 7 }
+Customer ID: 809, Transaction ID: 981, Items: {1 2 3 5 6 7 }
+Customer ID: 360, Transaction ID: 982, Items: {1 2 3 5 7 }
+Customer ID: 615, Transaction ID: 983, Items: {1 2 5 6 }
+Customer ID: 948, Transaction ID: 984, Items: {2 3 5 6 7 }
+Customer ID: 944, Transaction ID: 985, Items: {3 4 7 }
+Customer ID: 653, Transaction ID: 986, Items: {1 3 4 5 6 7 }
+Customer ID: 962, Transaction ID: 987, Items: {1 2 3 4 5 6 }
+Customer ID: 229, Transaction ID: 988, Items: {1 3 4 7 }
+Customer ID: 626, Transaction ID: 989, Items: {1 2 3 4 5 6 }
+Customer ID: 151, Transaction ID: 990, Items: {2 3 4 7 }
+Customer ID: 613, Transaction ID: 991, Items: {1 3 4 5 6 7 }
+Customer ID: 896, Transaction ID: 992, Items: {3 5 6 }
+Customer ID: 526, Transaction ID: 993, Items: {1 4 5 }
+Customer ID: 686, Transaction ID: 994, Items: {1 3 4 5 6 7 }
+Customer ID: 323, Transaction ID: 995, Items: {3 6 }
+Customer ID: 309, Transaction ID: 996, Items: {1 2 4 5 }
+Customer ID: 380, Transaction ID: 997, Items: {3 4 6 7 }
+Customer ID: 907, Transaction ID: 998, Items: {1 3 4 5 6 7 }
+Customer ID: 33, Transaction ID: 999, Items: {2 3 4 6 }
+Customer ID: 574, Transaction ID: 1000, Items: {1 2 4 7 }

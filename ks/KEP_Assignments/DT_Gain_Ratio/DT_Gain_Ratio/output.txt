@@ -1,0 +1,16 @@
+ Split on feature: age
+- Value: <=30
+-- Split on feature: student
+--- Value: no
+---- Decision: no
+--- Value: yes
+---- Decision: yes
+- Value: 31...40
+-- Decision: yes
+- Value: >40
+-- Split on feature: credit_rating
+--- Value: fair
+---- Decision: yes
+--- Value: excellent
+---- Decision: no
+
